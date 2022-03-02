@@ -69,7 +69,9 @@ helping the diabetes to take their suitable dose of the insulin in  the correct 
 * The system checks periodically for cartidge if it is empty , and also for the battery level 
 ![alt text](https://media.giphy.com/media/wqQQmtt171Wg1RfyPY/giphy.gif)
 ### Glucose Rate Analysis 
-* for the patient to keep tracking of his/her blood sugar level during the day , as in each time the device measures the blood sugar it stores it 
+* for the patient to keep tracking of his/her blood sugar level during the day ,
+*  as in each time the device measures the blood sugar it stores it 
+
 ![alt text](https://media.giphy.com/media/FqbZFl3HOI1zc6K0CH/giphy.gif)
 
 
