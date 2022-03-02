@@ -28,13 +28,32 @@
 ###  Pumping Circuit Design
 ![image](https://github.com/abdelrahmanbaher4/Automatic-Insulin-Pump-System/blob/main/Presentation/PumpCircuit.png)
 ## Movement
-
+![image](https://github.com/abdelrahmanbaher4/Automatic-Insulin-Pump-System/blob/main/Presentation/Gear.png)
 * Y = RGear x θ 
 * Area of cylinder = π x Rsy
 * Volume = Area of cylinder x Y
 * When the servo rotates the gear of radius RGear with angle θ, the gear will move distance Y on the rack.
 As the syringe is a cylinder then its area is π x RSyringe2 and then the amount of the insulin dosage is equal to syringe area x.
 So, to get the amount of the dosage required we will calculate the angle of servo rotation as the other constraints are constants.
+## Application :-
+![image](https://github.com/abdelrahmanbaher4/Automatic-Insulin-Pump-System/blob/main/Presentation/App_start.jpg)
+* flutter application is connected to firebase database to make it easier for the user to monitor the level of sugar and units that have been taken in each measurement and warn him when his blood sugar is high or low.
+## Tools 
+### Software Tools
+* Android Studio , Firebase                         
+* Arduino IDE
+* Solidworks!
+### Hardware Tools
+* Arduino Nano
+* Servo motor
+* LCD 16*2
+* Buzzer
+* Bluetooth Module
+* Max471”Current & Voltage sensor”
+* Battery & Im2596!
+## In Conclusion This project aims to make a complete system for all the diabetes to make them deal with their problem in easier way by: 
+calculating the appropriate dose for the patients by the insulin pump and the application can monitor their glucose in blood.
+helping the diabetes to take their suitable dose of the insulin in  the correct time.
 
 
 
