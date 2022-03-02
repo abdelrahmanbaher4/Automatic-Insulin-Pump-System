@@ -55,7 +55,9 @@ So, to get the amount of the dosage required we will calculate the angle of serv
 calculating the appropriate dose for the patients by the insulin pump and the application can monitor their glucose in blood.
 helping the diabetes to take their suitable dose of the insulin in  the correct time.
 
-
+## Project Demo
+### Sign Up and Login Pages 
+[!alt text](https://media.giphy.com/media/uK5bcZ36ol5UPcjzI6/giphy.gif)
 
 
 
