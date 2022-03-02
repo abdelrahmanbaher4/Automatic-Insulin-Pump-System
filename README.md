@@ -18,7 +18,7 @@
 ### Class Diagram 
 ![alt text](https://github.com/abdelrahmanbaher4/Automatic-Insulin-Pump-System/blob/main/Presentation/ClassDIagram.jpg)
 ### Use Case
-![alt text](https://github.com/abdelrahmanbaher4/Automatic-Insulin-Pump-System/blob/main/Presentation/Use%20Case.jpgg)
+![alt text](https://github.com/abdelrahmanbaher4/Automatic-Insulin-Pump-System/blob/main/Presentation/Use%20Case.jpg)
 ### DataBase 
 * Firebase database is a set of collections
 * Each collection has a set of documents andEach document contains a set of sub collections and fields, etc
