@@ -73,7 +73,6 @@ helping the diabetes to take their suitable dose of the insulin in  the correct 
 *  as in each time the device measures the blood sugar it stores it 
 
 ![alt text](https://media.giphy.com/media/FqbZFl3HOI1zc6K0CH/giphy.gif)
-
-
-
+## To Download the project source code 
+[Project](https://drive.google.com/file/d/1cqgPeypt7UWIHm7PiYiFv1l86JB3e118/view)
 
