@@ -12,4 +12,3 @@
 * System can help type one diabetes only.
 ## System Architicture
 ### Hardware Architectute
-
