@@ -11,4 +11,32 @@
 * The doctor monitors the blood glucose level of his patients weekly and sends them reports if possible.
 * System can help type one diabetes only.
 ## System Architicture
-### Hardware Architectute
+### Hardware Architecture
+![alt text](https://github.com/abdelrahmanbaher4/Automatic-Insulin-Pump-System/blob/main/Presentation/Picture1.jpg)
+### Software Architecture
+![alt text](https://github.com/abdelrahmanbaher4/Automatic-Insulin-Pump-System/blob/main/Presentation/SW.png)
+### Class Diagram 
+![alt text](https://github.com/abdelrahmanbaher4/Automatic-Insulin-Pump-System/blob/main/Presentation/ClassDIagram.jpg)
+### Use Case
+![alt text](https://github.com/abdelrahmanbaher4/Automatic-Insulin-Pump-System/blob/main/Presentation/Use%20Case.jpgg)
+### DataBase 
+* Firebase database is a set of collections
+* Each collection has a set of documents andEach document contains a set of sub collections and fields, etc
+* User and Doctor are collections , Glucose and Reports are sub collections in every user 
+![image](https://github.com/abdelrahmanbaher4/Automatic-Insulin-Pump-System/blob/main/Presentation/DB.png)
+## System Design & Implementation
+###  Pumping Circuit Design
+![image](https://github.com/abdelrahmanbaher4/Automatic-Insulin-Pump-System/blob/main/Presentation/PumpCircuit.png)
+## Movement
+
+* Y = RGear x θ 
+* Area of cylinder = π x Rsy
+* Volume = Area of cylinder x Y
+* When the servo rotates the gear of radius RGear with angle θ, the gear will move distance Y on the rack.
+As the syringe is a cylinder then its area is π x RSyringe2 and then the amount of the insulin dosage is equal to syringe area x.
+So, to get the amount of the dosage required we will calculate the angle of servo rotation as the other constraints are constants.
+
+
+
+
+
