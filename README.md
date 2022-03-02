@@ -62,8 +62,11 @@ helping the diabetes to take their suitable dose of the insulin in  the correct 
 * Normal Case : if the Blood Sugar between 80 and 120 , Nothing Happens
 * Very low case : if the Blood Sugar is less than 80 , a buzzer sound keeps beeping , and the app sends a notification to eat some sugars .
 * High case : if the Blood Sugar is above 120 , Insulin will be pumped . 
+
 ![alt text](https://media.giphy.com/media/4PvMEkkWAMhASaQNyP/giphy.gif)
+
 ### Handling Empty Cartidge case and low Battery case
+* The system checks periodically for cartidge if it is empty , and also for the battery level 
 ![alt text](https://media.giphy.com/media/wqQQmtt171Wg1RfyPY/giphy.gif)
 ### Glucose Rate Analysis 
 * for the patient to keep tracking of his/her blood sugar level during the day , as in each time the device measures the blood sugar it stores it 
