@@ -57,7 +57,12 @@ helping the diabetes to take their suitable dose of the insulin in  the correct 
 
 ## Project Demo
 ### Sign Up and Login Pages 
-[!alt text](https://media.giphy.com/media/uK5bcZ36ol5UPcjzI6/giphy.gif)
+![alt text](https://media.giphy.com/media/uK5bcZ36ol5UPcjzI6/giphy.gif)
+### Handling Patient 3 Cases 
+* Normal Case : if the Blood Sugar between 80 and 120 , Nothing Happens
+* Very low case : if the Blood Sugar is less than 80 , a buzzer sound keeps beeping , and the app sends a notification to eat some sugars .
+* High case : if the Blood Sugar is above 120 , a buzzer sound keeps beeping . 
+![alt text](https://media.giphy.com/media/YLaIfQ2WAIOJCzVt03/giphy.gif)
 
 
 
